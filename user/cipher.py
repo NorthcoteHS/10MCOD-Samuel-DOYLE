@@ -1,0 +1,15 @@
+print('recieved encoded message')
+msg = 'hello user my name is samuel'
+print(msg.replace('h', 'i'))
+print(msg.replace('e', 'f'))
+print(msg.replace('l', 'm'))
+print(msg.replace('o', 'p'))
+print(msg.replace('u', 'v'))
+print(msg.replace('s', 't'))
+print(msg.replace('r', 's'))
+print(msg.replace('m', 'n'))
+print(msg.replace('y', 'z'))
+print(msg.replace('n', 'o'))
+print(msg.replace('a', 'b'))
+print(msg.replace('i', 'j'))
+
