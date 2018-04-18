@@ -10,7 +10,7 @@ import random
 question = input('Ask me anything!')
 
 # Check for special input.
-if  question == 'Quit'
+if  question == 'Quit':
     print('Goodbye.)
 elif question == 'Hi' or 'Hello':
     print('Whats up?')
