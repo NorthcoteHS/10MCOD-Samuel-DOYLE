@@ -20,6 +20,6 @@ else:
 num = random.randint(0,4);
 if num == "1":
     print("Yes!")
-if num == 2:
+if num == '2':
     "No"
 done
