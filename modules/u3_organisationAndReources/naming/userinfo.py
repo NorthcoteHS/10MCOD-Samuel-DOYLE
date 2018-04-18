@@ -2,7 +2,7 @@
 Prog:   userInfo.py
 Name:   Samuel doyle
 Date:   18/04/18
-Desc:   Asks the user for their name, address, etc. This code has poorly named variables - please fix me!
+Desc:   Asks the user for their name, address, etc.
 """
 
 # Display welcome message.
