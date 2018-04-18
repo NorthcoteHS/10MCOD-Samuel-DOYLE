@@ -1,18 +1,19 @@
 """
 Prog:   yesNoProgram.py
-Name:   Student Name
-Date:   12/03/18
+Name:   Samuel doyle
+Date:   18/04/18
 Desc:   Answers yes or no to any question.
 """
-
+#inport random
+import random
 # Ask the user for a question.
 question = print('Ask me anything!')
 
 # Check for special input.
 if  question = 'Quit'
     print('Goodbye.)
-else if question == 'Hi' or 'Hello':
-    print('What's up?')
+elif question == 'Hi' or 'Hello':
+    print('Whats up?')
 
 # Answer yes or no randomly.
 else:
