@@ -1,5 +1,5 @@
 """
-Prog:   hello.py
+Prog:   computer.py
 Name:   Samuel doyle
 Date:   18/04/18
 Desc:   Says hello to the user.
