@@ -7,7 +7,7 @@ Desc:   Answers yes or no to any question.
 #inport random
 import random
 # Ask the user for a question.
-question = print('Ask me anything!')
+question = input('Ask me anything!')
 
 # Check for special input.
 if  question = 'Quit'
