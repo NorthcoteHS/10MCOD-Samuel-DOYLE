@@ -15,3 +15,4 @@ print('The area is', area)
 # calculate perimeter and print
 perimeter = 3.14 * r * 2
 print('The perimeter is', perimeter)
+xd
